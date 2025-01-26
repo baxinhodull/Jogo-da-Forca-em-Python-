@@ -1,6 +1,3 @@
-
-Aqui está um exemplo de um arquivo README.md para o seu código de jogo da forca. Esse arquivo pode ser usado para descrever o funcionamento do seu projeto, como usá-lo e qualquer outra informação relevante:
-
 Jogo da Forca - Python
 Este é um jogo simples da forca implementado em Python, onde o objetivo é adivinhar uma palavra, uma letra por vez. O jogador tem 6 tentativas para errar letras antes de perder o jogo.
 
