@@ -23,7 +23,8 @@ Clone ou baixe este repositório para a sua máquina local.
 Abra o terminal ou prompt de comando.
 Navegue até a pasta onde o arquivo forca.py está localizado.
 Execute o seguinte comando:
-![image](https://github.com/user-attachments/assets/e37a7897-8f15-4e0a-a330-8f7d2c121c5a)
+![image](https://github.com/user-attachments/assets/8f3b1cba-a726-4837-a906-78a0f5df7c63)
+
 Funcionalidades
 Palavras Aleatórias: O jogo escolhe uma palavra aleatória da lista predefinida para o jogador tentar adivinhar.
 Limite de Tentativas: O jogador tem 6 tentativas para adivinhar a palavra corretamente.
